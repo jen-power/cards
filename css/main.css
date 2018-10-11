@@ -9,6 +9,7 @@ html {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-align: center;
 }
 
 .cards li {
@@ -19,6 +20,7 @@ html {
   background-color: #fff;
   border: 3px solid #e2e2e2;
   border-radius: 10 px;
+  text-align: left;
 }
 
 *, *::before, *::after {
